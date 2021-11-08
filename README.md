@@ -29,6 +29,8 @@ se realizo ejecucion de pruebas unitarias con nunit al servicio de la entidad Li
 
 ![](https://user-images.githubusercontent.com/12039247/140794985-68dd337c-efe4-4532-a88e-28b88f5aa93e.png)
 
+![image](https://user-images.githubusercontent.com/12039247/140796485-9b1d4236-a41b-4c0a-b213-eaae2313964c.png)
+
 ## Versionado 📌
 
 Se hizo uso de este repositorio Git Hub para Realizar el versionado del codigo fuente
