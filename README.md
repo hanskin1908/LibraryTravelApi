@@ -24,6 +24,9 @@ Visual studio 2019
 Sql server 2019
 .Net Core MVC 5
 
+## pruebas unitarias 🛠️
+se realizo ejecucion de pruebas unitarias con nunit al servicio de la entidad Libro ubicada en la capa de core llamado LibrosService.
+![image](https://user-images.githubusercontent.com/12039247/140794985-68dd337c-efe4-4532-a88e-28b88f5aa93e.png)
 
 ## Versionado 📌
 
