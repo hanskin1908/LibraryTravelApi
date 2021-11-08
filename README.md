@@ -27,7 +27,7 @@ Sql server 2019
 ## pruebas unitarias 🛠️
 se realizo ejecucion de pruebas unitarias con nunit al servicio de la entidad Libro ubicada en la capa de core llamado LibrosService.
 
-![image](https://user-images.githubusercontent.com/12039247/140796757-05be5035-06f0-413e-89ea-e452a882d2fe.png)
+
 
 
 ## Versionado 📌
